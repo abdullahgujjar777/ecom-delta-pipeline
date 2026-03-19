@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,signup_date,country
+C001,John,Doe,john.doe@updatedmail.com,2025-01-10,USA
+C004,Bob,Johnson,bob.johnson@newmail.com,2025-01-20,USA
+C008,Anna,Williams,williams@newmail.com,2025-02-03,UK
+C009,Emma,Jones,emma.jones@example.com,2025-02-04,CAN
+C010,Olivia,Clark,olivia.clark@newmail.com,2025-02-05,AUS
